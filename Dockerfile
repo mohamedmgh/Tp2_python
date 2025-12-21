@@ -15,5 +15,5 @@ COPY . .
 EXPOSE 8501
 
 # Lance application
-CMD ["run", "tp2.py"]
+CMD ["python", "Tp2.py"]
 
